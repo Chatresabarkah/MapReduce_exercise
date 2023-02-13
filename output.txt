@@ -1,0 +1,5 @@
+"kertas"	273
+"paku"	603
+"palu"	906
+"headset"	288
+"gunting"	930
